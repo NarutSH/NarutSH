@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | **Frontend** | React · Next.js · TypeScript · Tailwind CSS · shadcn/ui · TanStack Query · Redux |
-| **Backend** | Node.js · NestJS · Express · Go · Encore.dev |
+| **Backend** | Node.js · NestJS · Express · Python · FastAPI |
 | **Data** | PostgreSQL · MongoDB · Supabase · Prisma |
 | **AI** | LangChain · RAG · Qdrant · n8n · Label Studio |
 | **DevOps** | Docker · NGINX · GitHub Actions · Vercel |
