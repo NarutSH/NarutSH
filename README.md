@@ -16,15 +16,17 @@
 | **AI** | LangChain · RAG · Qdrant · n8n · Label Studio |
 | **DevOps** | Docker · NGINX · GitHub Actions · Vercel |
 
-## Featured projects
+## Selected work
+
+🔒 = client work kept private — details on request
 
 | Project | What it is |
 |---|---|
-| [depa-dc-webapp](https://github.com/NarutSH/depa-dc-webapp) | Public portal for Thailand's digital-content industry — 994 projects, dual auth, load tested to 1,000 concurrent users |
-| [x-brain-web](https://github.com/NarutSH/x-brain-web) | ML & computer-vision platform frontend — training pipelines, model registry, OAuth2 SSO, RBAC |
+| 🔒 depa Digital Content Portal | Public portal for Thailand's digital-content industry — 994 projects, dual auth on Supabase, load tested to 1,000 concurrent users |
+| 🔒 X-Brain (TESAIoT) | ML & computer-vision platform frontend — training pipelines, model registry, OAuth2 SSO, RBAC |
 | [robolingo-line-ai-chat](https://github.com/NarutSH/robolingo-line-ai-chat) | LINE AI chat with RAG on Qdrant — AI answers first, staff can take over anytime |
-| [jarn-go-web](https://github.com/NarutSH/jarn-go-web) | School management system — Next.js 15 + Supabase + TypeScript |
-| [nbtc-speedtest-application](https://github.com/NarutSH/nbtc-speedtest-application) | National internet speed test desktop app (Electron, Windows/macOS) |
+| 🔒 BACE LMS | Learning platform for Burapha University — 37 video lessons, quizzes, NestJS + Prisma API |
+| 🔒 NBTC Speed Test | National internet speed test desktop app (Electron, Windows/macOS) |
 
 ## Contact
 
