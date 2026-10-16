@@ -2,7 +2,7 @@
 
 **Fullstack Developer** with 6+ years building web platforms for government agencies, universities, and companies in Thailand — from requirement to production.
 
-- 🤖 AI engineering in production: RAG pipelines (Qdrant), LangChain, n8n — including an AI support agent that answers 70% of customer questions on its own
+- 🤖 AI engineering in production: RAG pipelines, LangChain, n8n — including an AI support agent that answers 70% of customer questions on its own
 - 🏛️ Shipped public platforms for depa, NBTC, the Social Security Office, and Burapha University Hospital
 - 🌱 Currently learning LangGraph
 
