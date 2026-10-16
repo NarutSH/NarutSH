@@ -25,7 +25,7 @@
 | 🔒 depa Digital Content Portal | Public portal for Thailand's digital-content industry — 994 projects, dual auth on Supabase, load tested to 1,000 concurrent users , see this [DEPA - Digital content](https://digitalcontent.depa.or.th )|
 | 🔒 X-Brain (TESAIoT) | ML & computer-vision platform frontend — training pipelines, model registry, OAuth2 SSO, RBAC |
 | [robolingo-line-ai-chat](https://github.com/NarutSH/robolingo-line-ai-chat) | LINE AI chat with RAG on Qdrant — AI answers first, staff can take over anytime |
-| 🔒 BACE LMS | Learning platform for Burapha University — 37 video lessons, quizzes, NestJS + Prisma API |
+| 🔒 BACE LMS | Learning platform for Burapha University — 37 video lessons, quizzes, NestJS + Prisma API, see this. [BACE LMS](https://bace.buu.ac.th) |
 | 🔒 NBTC Speed Test | National internet speed test desktop app (Electron, Windows/macOS) |
 
 ## Contact
